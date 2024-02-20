@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=salesflow
+POSTGRES_USER=zmgUuXDMEWFalDmnnVXuSVNWMFYwtXZE
+POSTGRES_PASSWORD=fPeDocwp3G8w1hBimvkSSIE1pgfz3GmewCPGqKGPzH8sXjwNLksnKILbQiYLkjmu
